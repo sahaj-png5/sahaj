@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: white;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color:orange;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+
+
+}
